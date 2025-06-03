@@ -85,9 +85,6 @@ To enable GPT-based imputation:
 1. Get your OpenAI API key: [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)  
 2. Set it in your environment or code:
 
-```python
-openai.api_key = "sk-..."  # never commit this to version control!
-```
 
 The GPT model used is `gpt-4o`.
 
